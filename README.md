@@ -4,9 +4,13 @@
 
 ## ▶ Jogar no navegador
 
-**[Clique aqui para jogar no WebMSX](https://webmsx.org/?MACHINE=MSX2E&DISK=https://raw.githubusercontent.com/passaroii/colheita-zero/main/COLHEITA_ZERO.DSK)**
+**[Clique aqui para jogar no WebMSX](https://webmsx.org/?MACHINE=MSX2E&PRESETS=MSXMUSIC&DISK=https://raw.githubusercontent.com/passaroii/colheita-zero/main/COLHEITA_ZERO.DSK)**
 
 O MSX liga sozinho e o jogo começa depois da logomarca (uns 20 segundos). Deixe a aba do jogo à vista: com ela escondida, o navegador deixa o emulador lento.
+
+## Música
+
+A abertura toca um lundu original. Com o chip FM (MSX-MUSIC, já ligado no link acima, ou FM-PAC num MSX de verdade) ela sai com clarinete, banjo, baixo e bateria; sem FM, toca no som padrão do MSX.
 
 ## Como jogar
 
