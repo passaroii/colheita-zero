@@ -15,7 +15,7 @@ A abertura toca um lundu original. Com o chip FM (MSX-MUSIC, já ligado no link 
 ## Como jogar
 
 - **Clique na tela do emulador** antes de usar o teclado.
-- No começo: **1** = Sobrevivência (com fome e pontos), **2** = Exploração. Depois de escolher, aguarde: a primeira tela demora um pouco para carregar.
+- No começo, escolha o modo com as **setas ↑↓** e **ENTER** (ou tecle **1** ou **2**): **1** = Sobrevivência (com fome e pontos), **2** = Exploração. Depois de escolher, aguarde: a primeira tela demora um pouco para carregar.
 - **Setas ↑↓** escolhem a ação no menu, **ENTER** confirma, **ESC** volta.
 - Prefere digitar? Aperte uma letra e escreva o comando (ex.: `PEGUE A FACA`).
 - O SALVAR só vale enquanto a página estiver aberta.
